@@ -1,0 +1,31 @@
+---
+layout: page
+title: Assignments
+permalink: /assignments/
+---
+
+| Assignment       | % of Grade           | 
+| ------------- |-------------:| 
+| In-class exercises     | 40% |
+| Team Projects     | 40%  |
+| Reflection Assignments | 20% |
+
+# In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
+## The in-class exercise grading process 
+Getting full credit for the in-class exercises is easy. This is truly a case where showing up is half the battle. Just be there and be willing to participate in each in-class activity and do a good job of it. As a key part of active learning in the classroom, individuals and teams will be asked to perform part of an ongoing analysis or design exercise in class, to illustrate the application of concepts covered in the class notes and class discussion. In assessing the “do a good job” part of this activity for each individual, I'll be looking for:
+- Presence or absence of the individual- Preparedness, knowledge of material- Care and correctness in applying it- Intangibles (getting into role, helping others, etc.)
+In assessing the “do a good job” part of this activity for the whole team, I'll be looking for whether you prepared in advance by bringing the necessary materials (where this is needed).
+# Team Project The major work (and major credit) component for the course is the semester team-oriented development project. It involves defining, analyzing, specifying, designing, prototyping, and evaluating an interaction design for a “client” that you select. The purpose of the project is to give you exposure to all steps involved in developing a significant user interaction design. The deliverable for your team project is a website that explains the user experience research, design, and evaluation activities in which you engaged and reports on their outcomes. Essentially, you will be blogging your team project for a public audience. The course website is built using [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/docs/github-pages/), and I suggest you use the same architecture for your project site. However, any architecture that works is ok.
+Remember that your assignments for the team project are experiences that should be well-designed. Apply the principles of good UX design that we are learning in class to your assignments. **We'll talk on day 1 about what this means.**## Team member evaluations Your grade for the team project will depend on your teammates' evaluations of your work.
+
+# Reflection Assignments
+
+You have two reflection assignments - one due **before spring break** and one due **during finals week**.
+
+## Learning Goals	The purpose of the individual reflection assignment is to give you an opportunity to make sense of the work you’ve done this term and to demonstrate that you have thoughtfully considered how the course material may or may not be useful to you in the future. When you’ve completed the assignment, you will be able to
+1.	Identify potential challenges in planning, administering, and/or reporting on user research projects and2.	Demonstrate understanding of the complexities of collaborative user research.## The	Assignment	In less than five pages, write a reflective paper in which you explain the process by which you and your group completed your user experience research project. Your paper should be reflective, personal, and academically rigorous – you should include discussions of the readings and conversations we used/had in class that impacted your work. Some questions to consider while you write include- If you were to do another similar project, what would you do differently? - What parts of working together or doing user research did you find most challenging? Why? - What new skills or tools have you developed this term? How might they be useful to you in the future?- How did the readings or discussions from class influence your project?- What readings or resources did you find especially persuasive? Which ones were not convincing? Why or why not?
+
+### Good Reflective Papers Are/Do…
+ - Ways to achieve clarity about your own learning- Make connections among concepts, projects, the real world- A way to make meaning out of what you’ve read and done in COM 525- Your responses to the new information you encountered in COM 525- Explain how your thinking has changed since January- Interesting to read- Include specifics (e.g., conversations, readings) to support their statements
+### Good Reflective Papers Are/Do Not…
+- Summaries of your notes from class- Sarcastic, flippant, or dishonest- Complain about the work, the project, or your group members- Overly general## Grading	In the most successful papers, it will be evident that the author has spent considerable time reflecting on the overall meaning of the course and the course activities. The reader will also see how the author’s thoughts and actions have been affected by the course. The essay will be coherent and structured such that a reader may understand how the course and its content have helped the author to develop understandings of user research, its purposes, and its methods.Less successful papers will lack unity and seem disjointed or rambling. It will seem that the paper was written without much reflection. Alternately, the comments about what the author has learned may seem forced or disingenuous (dishonest). The less fortunate essay will jump from idea to idea without transition such that the reader has difficulty understanding how the author has made personal sense of the course.

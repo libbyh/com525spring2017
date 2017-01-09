@@ -1,0 +1,60 @@
+
+# SEO settings
+title: "COM 381/525"
+title2: " UX Research and Evaluation" # default: ""
+description: "A hands-on approach to learning about user experience design."
+keywords: ""
+url: http://libbyh.github.io # site url
+# url: http://127.0.0.1:4000/
+baseurl: "/com525spring2017" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-XXXXX-XX
+repo: http://github.com/libbyh/com525spring2017
+disqus_shortname: ""
+twitter_username: ""
+comments: false 
+
+# Build settings
+permalink   : /:year/:month/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Libby Hemphill"
+  job      : "Associate Professor of Communication and Information Studies"
+  bio      : ""
+  thumb    : /images/author.jpg
+  email    : libby.hemphill@iit.edu
+  url      : http://libbyh.com
+  github   : http://github.com/libbyh
+  twitter  : http://twitter.com/libbyh
+  facebook : 
+  linkedin : 
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@libbyh"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
