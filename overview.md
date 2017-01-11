@@ -13,7 +13,7 @@ permalink: /overview/
 
 # TA
 - Xi Rao
-- 2XX Siegel Hall (Office hours TBD)
+- 207 Siegel Hall (Office hours Mondays 10-11am)
 - [xrao@hawk.iit.edu](mailto:xrao@hawk.iit.edu)
 
 # Course Description This goal treats UX design as an ongoing process throughout the full product life cycle, and developing the human-computer interface is not something to be done at the last minute, when the "rest of the system" is finished. 
