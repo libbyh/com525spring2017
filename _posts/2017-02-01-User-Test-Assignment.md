@@ -7,7 +7,7 @@ description: "Class activities for 2/1 and assignments for user tests"
 
 # Administrivia
 
-## Review [Assignments]({{ base.url}}/assignments)
+## Review [Assignments]({{site.baseurl}}/assignments)
 
 Remember, you're to setup a website as your deliverable. You should set that up today so that you can complete next week's assignment.
 
