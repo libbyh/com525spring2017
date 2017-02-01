@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Basic Methods and Intro to User Testing"
+title: "User testing assignment and activity"
 comments: false
-description: "Here's what we covered in the first week of class"
+description: "Class activities for 2/1 and assignments for user tests"
 ---
 
 # Administrivia
