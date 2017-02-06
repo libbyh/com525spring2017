@@ -10,6 +10,16 @@ permalink: /assignments/
 | Team Projects     | 40%  |
 | Reflection Assignments | 20% |
 
+# Due Dates
+
+Additional due dates will be announced here.
+
+- February 6 User test plans/scripts 
+- February 22 User test reports
+- February 29 Personas 
+- March 8 Mid-term Reflection
+- May 3 Final reflection 
+
 # In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
 ## The in-class exercise grading process 
 Getting full credit for the in-class exercises is easy. This is truly a case where showing up is half the battle. Just be there and be willing to participate in each in-class activity and do a good job of it. As a key part of active learning in the classroom, individuals and teams will be asked to perform part of an ongoing analysis or design exercise in class, to illustrate the application of concepts covered in the class notes and class discussion. In assessing the “do a good job” part of this activity for each individual, I'll be looking for:
