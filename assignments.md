@@ -16,7 +16,7 @@ Additional due dates will be announced here.
 
 - February 6 User test plans/scripts 
 - February 22 User test reports
-- February 29 Personas 
+- March 1 Personas 
 - March 8 Mid-term Reflection
 - May 3 Final reflection 
 
