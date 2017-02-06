@@ -15,3 +15,10 @@ I see some confusion about what particular kind of goals are important to consid
 
 The most important thing that explicitly stating research questions accomplishes is *focus*. They articulate the purpose(s) of a particular UX activity and, in doing so, also articulate what's beyond the scope of the current activity. Research questions tell us what the test is for, what is it designed to teach us, and they connect to specific business  goals so that we can readily articulate *why* we're doing whatever activity or task we're doing.
 
+# Reports 
+
+User test reports come in many flavors. Here are some examples:
+
+- [Maryland Online Ballot Tool](http://elections.maryland.gov/press_room/documents/onlineballot_usabilitytestresults.pdf)
+- [Report template from Usability.gov](https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html)
+

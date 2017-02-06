@@ -15,7 +15,28 @@ permalink: /assignments/
 Getting full credit for the in-class exercises is easy. This is truly a case where showing up is half the battle. Just be there and be willing to participate in each in-class activity and do a good job of it. As a key part of active learning in the classroom, individuals and teams will be asked to perform part of an ongoing analysis or design exercise in class, to illustrate the application of concepts covered in the class notes and class discussion. In assessing the “do a good job” part of this activity for each individual, I'll be looking for:
 - Presence or absence of the individual- Preparedness, knowledge of material- Care and correctness in applying it- Intangibles (getting into role, helping others, etc.)
 In assessing the “do a good job” part of this activity for the whole team, I'll be looking for whether you prepared in advance by bringing the necessary materials (where this is needed).
-# Team Project The major work (and major credit) component for the course is the semester team-oriented development project. It involves defining, analyzing, specifying, designing, prototyping, and evaluating an interaction design for a “client” that you select. The purpose of the project is to give you exposure to all steps involved in developing a significant user interaction design. The deliverable for your team project is a website that explains the user experience research, design, and evaluation activities in which you engaged and reports on their outcomes. Essentially, you will be blogging your team project for a public audience. The course website is built using [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/docs/github-pages/), and I suggest you use the same architecture for your project site. However, any architecture that works is ok.
+# Team Project The major work (and major credit) component for the course is the semester team-oriented development project. It involves defining, analyzing, specifying, designing, prototyping, and evaluating an interaction design for a “client” that you select. The purpose of the project is to give you exposure to all steps involved in developing a significant user interaction design. 
+
+## COM 381
+
+You may complete your individual evaluation assignments (e.g., user test report, survey report) by posting them in your group's Google Drive folder. Each report may stand on its own.
+
+## COM 525
+
+The deliverable for your team project is a **website** that explains the user experience research, design, and evaluation activities in which you engaged and reports on their outcomes. This of this site as your team's portfolio - it demonstrates what your team can do and explains how you think. The course website is built using [GitHub pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/docs/github-pages/), and that architecture works if you're looking for a place to start. However, any architecture that works is ok.
+
+For each evaluation assignment (e.g., user test, survey, persona), you must explain 
+
+- what information that evaluation is expected to provide
+- the process behind the development of your evaluation protocol
+- a reflection on conduting the evaluation itself, and 
+- what the evaluation found (i.e., the report).
+
+Here are a few examples of websites about UX projects that are good places to start:
+
+- [Behance on Netflix](https://www.behance.net/gallery/18246173/UX-Case-Study-The-Netflix-Screening-Room)
+- [Case Studies from Fresh Tilled Soil](http://www.freshtilledsoil.com/work/)
+- [Simon Pan's portfolio](http://simonpan.com/)
 Remember that your assignments for the team project are experiences that should be well-designed. Apply the principles of good UX design that we are learning in class to your assignments. **We'll talk on day 1 about what this means.**## Team member evaluations Your grade for the team project will depend on your teammates' evaluations of your work.
 
 # Reflection Assignments
