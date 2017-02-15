@@ -5,9 +5,6 @@ comments: false
 description: "Scenarios"
 ---
 
-
-# Introducing Scenarios
-
 ### Scenario	 
 A scenario is a design input in the form of <b>a story</b> about <b>specific people</b> performing work activities in a specific work situation within a <b>specific work context</b>, told in a concrete <b>narrative style</b>, as if it were a transcript of a real usage occurrence. Scenarios are deliberately <b>informal</b>, <b>open-ended</b>, and <b>fragmentary</b> narrative depictions of <b>key usage situations</b> happening over time.
 
