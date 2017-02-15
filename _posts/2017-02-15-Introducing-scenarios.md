@@ -1,35 +1,35 @@
 ---
 layout: post
-title: "Scenarios"
+title: "Introducing Scenarios"
 comments: false
-description: "Introducing Scenario"
+description: "Scenarios"
 ---
 
 
-#Introducing Scenarios
+# Introducing Scenarios
 
-###Scenario	 
+### Scenario	 
 A scenario is a design input in the form of <b>a story</b> about <b>specific people</b> performing work activities in a specific work situation within a <b>specific work context</b>, told in a concrete <b>narrative style</b>, as if it were a transcript of a real usage occurrence. Scenarios are deliberately <b>informal</b>, <b>open-ended</b>, and <b>fragmentary</b> narrative depictions of <b>key usage situations</b> happening over time.
 
-*short version: a narrative of how your persona(s) use your product.
+* short version: a narrative of how your persona(s) use your product.
 
 
-###Goals - finding the problem
+### Goals - finding the problem
 Gain a better understanding of the system usage in the context of the user’s actual experience.
 
 	    
-###Elements of scenarios:
+### Elements of scenarios:  
 * User(s) (background, needs, goals)  
 * User thoughts and user actions  
-* System response
-* Context
-* Barriers 
+* System response  
+* Context  
+* Barriers   
 
 e.g. on P. 221 & 222
 example.
 (mike buy tickets)
 
-#When do we use scenarios?
+# When do we use scenarios?
 <img src="https://uxthink.files.wordpress.com/2010/11/screen-shot-2010-11-16-at-10-09-31-am.png?w=500&h=177" />
 
 Scenarios can have a number of iterations and be utilised in a number of ways throughout the project life-cycle.
@@ -42,7 +42,7 @@ Scenarios can have a number of iterations and be utilised in a number of ways th
 - Competitor analysis to compare a variety of sites to each other.
 
 
-#Scenario Planning
+# Scenario Planning
 
 - Personas
 - Contextual inquiry (semi-structured interview with users)
@@ -54,9 +54,9 @@ Scenarios can have a number of iterations and be utilised in a number of ways th
 *Scenario & tasks
 
 
-#How to Create a Scenario?
+# How to Create a Scenario?
 
-###Think & write
+### Think & write  
 - Users (background, needs, activities, reactions, thoughts, feelings)
 - The context of use (environment & other)
 - Tasks to be supported by the system (user's goals, your product features)
@@ -70,7 +70,7 @@ What triggers this experience?
 What happens?  
 What is the outcome?
 
-###Review 
+### Review 
 with UX team, with actual user
 
 Ask questions:  
