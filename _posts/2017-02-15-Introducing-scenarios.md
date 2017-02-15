@@ -14,9 +14,8 @@ A scenario is a design input in the form of <b>a story</b> about <b>specific peo
 * short version: a narrative of how your persona(s) use your product.
 
 
-### Goals - finding the problem
+### Goals - find the problem
 Gain a better understanding of the system usage in the context of the user’s actual experience.
-
 	    
 ### Elements of scenarios:  
 * User(s) (background, needs, goals)  
@@ -26,8 +25,8 @@ Gain a better understanding of the system usage in the context of the user’s a
 * Barriers   
 
 e.g. on P. 221 & 222
-example.
-(mike buy tickets)
+Scenario & persona  
+Scenario & tasks
 
 # When do we use scenarios?
 <img src="https://uxthink.files.wordpress.com/2010/11/screen-shot-2010-11-16-at-10-09-31-am.png?w=500&h=177" />
@@ -49,9 +48,6 @@ Scenarios can have a number of iterations and be utilised in a number of ways th
 - Complains/reviews
 - Customer-facing staff (ex. bus drivers, station staff, customer service operators)
 - General guess
-
-*Scenario & persona  
-*Scenario & tasks
 
 
 # How to Create a Scenario?
