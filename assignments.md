@@ -17,7 +17,7 @@ Additional due dates will be announced here.
 - February 6 User test plans/scripts 
 - February 22 User test reports
 - March 1 [Personas]({{ site.baseurl}}/2017/02/Persona-notes-and-assignment) 
-- March 8 Scenarios and [Mid-term Reflection]({{ site.baseurl }}/2017/02/Individual-reflection-assignment)
+- March 8 [Mid-term Reflection]({{ site.baseurl }}/2017/02/Individual-reflection-assignment)
 - May 3 Final reflection 
 
 # In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
