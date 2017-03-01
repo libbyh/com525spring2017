@@ -26,7 +26,8 @@ Here are some examples:
 Your group must generate 2 personas and present foundation documents (descriptions like on the [CTA personas]({{ site.baseurl }}/2017/02/CTA-Personas/) page) for both. You must also "show your work" - provide pictures of your data and assumption documenting and assimilating activities (like [these from class]({{ site.baseurl}}/2017/02/Persona-activity-photos/) and be sure to include references to that data when describing your personas. You will also list skeletons on your way to deciding which personas to generate, and you must provide those as well.
 
 ## Due Date
-February 29
+
+March 1
 
 ## Deliverables
 
