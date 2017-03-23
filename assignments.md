@@ -19,7 +19,7 @@ Additional due dates will be announced here.
 - March 1 [Personas]({{ site.baseurl}}/2017/02/Persona-notes-and-assignment) 
 - March 8 [Mid-term Reflection]({{ site.baseurl }}/2017/02/Individual-reflection-assignment)
 - March 22 [Survey Grid]({{site.baseurl}}/2017/03/Survey-grid-assignment)
-- March 27 Competitive Analysis
+- March 29 [Competitive Analysis]({{site.baseurl}}/2017/03/Competitive-analysis-assignment)
 - April 10 Interface Inspection Assignment
 - May 3 Final reflection 
 
