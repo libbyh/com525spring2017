@@ -27,6 +27,7 @@ Primary benefit: Quick and dirty for uncovering lots of UX issues
 4. Run the evaluation
 
 ### HE Data Collection
+
 |Location in the Task Description | Heuristic Violated | UX Defect Description | Inspectors' Comments | Severity |
 |---|---|---|---|---|
 |Locate event details | Flexibility and efficiency | Events is hidden behind hamburger menu | Could users choose events over live on their menus? Or top menu? Need to know whether "events" is more commonly used, better engagement than existing menu items | Low |
@@ -34,7 +35,7 @@ Primary benefit: Quick and dirty for uncovering lots of UX issues
 More on hamburger menus:
 * [Apptimize](https://apptimize.com/blog/2015/07/the-ultimate-guide-to-the-hamburger-menu/)
 * [NN Groups](https://www.nngroup.com/articles/hamburger-menus/)
-* 
+
 ### HE Report
 
 | Heuristic | Score | Comments|
