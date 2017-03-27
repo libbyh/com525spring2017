@@ -13,7 +13,7 @@ Your group must conduct a competitive analysis and report your results. The goal
 Your analysis must include the following:
 
 * list of competitors
-* feature comparison table that includes at least 2 competitors 
+* feature comparison table that includes at least 2 competitors (note: don't restrict yourselves to *direct* competitors)
 * flow models for 
 	* at least your system and 2 others 
 	* on some set of features you care about (and why those features) 
