@@ -25,11 +25,11 @@ We use decriptive statistics to describe the basic features of the data in a sur
 E.g. GPA. (Excel.)
 
 * Frequency distribution 
- 	* Visualization
+	* Visualization
 * Measure of central tendency
- 	* Mode
- 	* Median
- 	* Mean 
+	* Mode
+	* Median
+	* Mean 
 * Measure of variability
 	* Range
 	* Standard devidation 	 
@@ -40,26 +40,23 @@ E.g. GPA. (Excel.)
 ## Inferential Statistics
 
 We use it to try to reach conclusions that extend beyond the immediate data alone.
-
 We use it to infer from the sample data, what the population might think.
+
 
 Go back to our scenario at the beginning. (In Excel.)
 
-		
-		
+.			
+.		
+.	
 
 It looks like ..
-
 What if ..
 		
 	
-How do we know they are significantly different? 
-
-When can we confidently say that they're different in the whole big data set?
-
-Is this difference a "real" difference, or just caused by chance?
-
-If we conduct the research again, would we get the same conclusion?
+How do we know they are significantly different? 	
+When can we confidently say that they're different in the whole big data set?	
+Is this difference a "real" difference, or just caused by chance?	
+If we conduct the research again, would we get the same conclusion?	
 
 
 * Normal Distribution (curve)
