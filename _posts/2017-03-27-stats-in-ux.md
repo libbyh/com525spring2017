@@ -116,6 +116,7 @@ Some things you need to include:
 * Significance.
 * Discussions & findings. (Who's your audience? What do we do survey for?)
 
+The Excel that I used in class is [here](https://www.dropbox.com/s/8c4pewg4wxmcovo/ux.xlsx?dl=0).
 
 
 
