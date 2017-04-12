@@ -20,8 +20,8 @@ Additional due dates will be announced here.
 - March 8 [Mid-term Reflection]({{ site.baseurl }}/2017/02/Individual-reflection-assignment)
 - March 22 [Survey Grid]({{site.baseurl}}/2017/03/Survey-grid-assignment)
 - March 29 [Competitive Analysis]({{site.baseurl}}/2017/03/Competitive-analysis-assignment)
-- April 19 Interface Inspection Assignment
-- April 26 Final project
+- April 19 [Interface Inspection Assignment]({{site.baseurl}}/2017/04/Inspection-method-assignment)
+- April 26 [Final project]({{site.baseurl}}/2017/04/final-project)
 - April 26 Final reflection 
 
 # In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
@@ -51,7 +51,7 @@ Here are a few examples of websites about UX projects that are good places to st
 - [Behance on Netflix](https://www.behance.net/gallery/18246173/UX-Case-Study-The-Netflix-Screening-Room)
 - [Case Studies from Fresh Tilled Soil](http://www.freshtilledsoil.com/work/)
 - [Simon Pan's portfolio](http://simonpan.com/)
-Remember that your assignments for the team project are experiences that should be well-designed. Apply the principles of good UX design that we are learning in class to your assignments. **We'll talk on day 1 about what this means.**## Team member evaluations Your grade for the team project will depend on your teammates' evaluations of your work.
+Remember that your assignments for the team project are experiences that should be well-designed. Apply the principles of good UX design that we are learning in class to your assignments. **We'll talk on day 1 about what this means.**## Team member evaluations Your grade for the team project will depend on your teammates' evaluations of your work. [Here is the form for completing evaluations.](https://docs.google.com/a/iit.edu/forms/d/e/1FAIpQLSeTKKDH6CbX2SCD1pihtu4sNMz-Y8R6PjUotxQkFEVdJO07gA/viewform?usp=sf_link)
 
 # Reflection Assignments
 
