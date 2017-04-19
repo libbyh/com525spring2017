@@ -21,7 +21,7 @@ Additional due dates will be announced here.
 - March 22 [Survey Grid]({{site.baseurl}}/2017/03/Survey-grid-assignment)
 - March 29 [Competitive Analysis]({{site.baseurl}}/2017/03/Competitive-analysis-assignment)
 - April 19 [Interface Inspection Assignment]({{site.baseurl}}/2017/04/Inspection-method-assignment)
-- April 26 [Final project]({{site.baseurl}}/2017/04/final-project)
+- April 26 [Final project]({{site.baseurl}}/2017/04/final-project) and [Team Member Evals](https://docs.google.com/a/iit.edu/forms/d/e/1FAIpQLSeTKKDH6CbX2SCD1pihtu4sNMz-Y8R6PjUotxQkFEVdJO07gA/viewform?usp=sf_link)
 - May 3 5:00pm Final reflection (on Blackboard)
 
 # In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
