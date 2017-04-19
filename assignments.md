@@ -22,7 +22,7 @@ Additional due dates will be announced here.
 - March 29 [Competitive Analysis]({{site.baseurl}}/2017/03/Competitive-analysis-assignment)
 - April 19 [Interface Inspection Assignment]({{site.baseurl}}/2017/04/Inspection-method-assignment)
 - April 26 [Final project]({{site.baseurl}}/2017/04/final-project)
-- April 26 Final reflection 
+- May 3 5:00pm Final reflection (on Blackboard)
 
 # In-class ExercisesAll in-class exercises are team activities tailored to fit the space and time limitations of the classroom. The in-class exercises go with the class lectures and the description of each in-class exercise is at the end of the lecture slides for the corresponding topic. Xi and I will bring the materials necesssary for in-class exercises.
 ## The in-class exercise grading process 
