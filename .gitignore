@@ -21,6 +21,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Lock files
+*.lock
+
 # =========================
 # Operating System Files
 # =========================
